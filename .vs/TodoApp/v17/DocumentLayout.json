@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\viewmodels\\taskviewmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:viewmodels\\taskviewmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\pages\\todopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:pages\\todopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\pages\\todopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:pages\\todopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|c:\\users\\hp\\documents\\new .net personal\\todoapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F0965-EDBA-4C0B-B148-4A27F5C4E60A}|TodoApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 373,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-21T22:16:38.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:29:42.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Pages\\TodoPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\TodoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Pages\\TodoPage.xaml.cs",
+              "RelativeToolTip": "Pages\\TodoPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:45:44.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Pages\\TodoPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\TodoPage.xaml",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Pages\\TodoPage.xaml",
+              "RelativeToolTip": "Pages\\TodoPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T17:39:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskViewModelcs.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\ViewModels\\TaskViewModelcs.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TaskViewModelcs.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\ViewModels\\TaskViewModelcs.cs",
+              "RelativeToolTip": "ViewModels\\TaskViewModelcs.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAFQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:35:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:32:08.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\NEW .NET PERSONAL\\TodoApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:29:24.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
